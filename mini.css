@@ -816,7 +816,7 @@ list-style-type:none;
 
 
 /* media query screen 850px */
-@media screen and (min-device-width: 451px) and (max-device-width: 900px)      { 
+@media screen and (min-device-width: 451px) and (max-device-width: 700px)      { 
     .navbar{
         /* background-color: rgba(255, 255, 255, 0.603); */
      margin: 0;
