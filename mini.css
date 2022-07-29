@@ -589,7 +589,7 @@ list-style-type:none;
 /* university footer scetion end */
 
 /*media query*/
-@media screen and (min-device-width: 320px) and (max-device-width: 450px)  {
+@media screen and (min-device-width: 320px) and (max-device-width: 360px)  {
   .navbar{
     background-color: transparent;
     margin: 0;
